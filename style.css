@@ -1,0 +1,17 @@
+.intro{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+.color-btn{
+    padding: 10px 8px 10px 8px;
+    background-color: aqua;
+    border-radius: 10px;
+}
